@@ -1,0 +1,28 @@
+[
+    {
+        "ID": "01",
+        "Year": "2022- Present",
+        "Designation": "Senior Web Developer",
+        "CompanyName": "ABC IT Ltd",
+        "Address": "USA",
+        "Description": "Lorem1 dolor sit amet consectetur adipisicing elit. Delectus laudantium, voluptatem quis repellendus eaque sit animi illo ipsam amet officiis corporis sed aliquam non voluptate corrupti excepturi maxime porro fuga."
+    },
+    {
+        "ID": "02",
+        "Year": "2020- 2022",
+        "Designation": "Jr. Web Developer",
+        "CompanyName": "ABC Tech Ltd",
+        "Address": "Bangladesh",
+        "Description": "Lorem2 ipsum sit amet consectetur adipisicing elit. Delectus laudantium, voluptatem quis repellendus eaque sit animi illo ipsam amet officiis corporis sed aliquam non voluptate corrupti excepturi maxime porro fuga."
+
+    },
+    {        
+        "ID": "03",
+        "Year": "2018- 2020",
+        "Designation": "Intern",
+        "CompanyName": "ABC Software Ltd",
+        "Address": "Dhaka",
+        "Description": "Lorem3 sit dolor sit amet consectetur adipisicing elit. Delectus laudantium, voluptatem quis repellendus eaque sit animi illo ipsam amet officiis corporis sed aliquam non voluptate corrupti excepturi maxime porro fuga."
+
+    }
+]

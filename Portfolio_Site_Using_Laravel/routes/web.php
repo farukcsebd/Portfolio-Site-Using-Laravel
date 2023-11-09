@@ -1,5 +1,7 @@
 <?php
 
+use App\Http\Controllers\ExperienceController;
+use App\Http\Controllers\ProjectController;
 use Illuminate\Support\Facades\Route;
 
 /*
@@ -14,8 +16,17 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () {
-    return view('welcome');
+    return view('index');
 });
 Route::get('/', function () {
-    return view('welcome');
+    return view('index');
 });
+
+
+Route::get('/experience',[ExperienceController::class, 'index']);
+
+Route::get('/projects', [ProjectController::class, 'index']);
+
+Route::get('/projects/{id}', [ProjectController::class, 'show'])->name('projects.show');
+
+

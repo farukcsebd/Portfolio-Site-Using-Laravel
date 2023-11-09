@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "Title": "CRM Application",
+        "Description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius at enim eum illum aperiam placeat esse? Mollitia omnis minima saepe recusandae libero, iste ad asperiores! Explicabo commodi quo itaque! Ipsam!",
+        "Image": "/images/project1.png"
+    },
+    {
+        "id": 2,
+        "Title": "Real Estate Management System",
+        "Description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius at enim eum illum aperiam placeat esse? Mollitia om",
+        "Image": "/images/project2.png"
+    },
+    {
+        "id": 3,
+        "Title": "Food Ordering System",
+        "Description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius at enim eum illum aperiam placeat esse? Mollitia om",
+        "Image": "/images/project3.png"
+    }
+]
